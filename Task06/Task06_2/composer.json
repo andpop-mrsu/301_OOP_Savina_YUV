@@ -1,5 +1,5 @@
 {
-    "name": "yuliya/task05_1",
+    "name": "yuliya/task06_2",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
